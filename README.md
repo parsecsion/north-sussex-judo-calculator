@@ -59,7 +59,7 @@ This application was developed for North Sussex Judo, a local training facility 
 3. **View Athletes** - Check the "Athlete List" tab to see all registered members
 4. **Calculate Fees** - Use the "Fee Calculator" tab for monthly fee reports
 
-## 📋 System Requirements
+## System Requirements
 
 | Component | Requirement |
 |-----------|-------------|
