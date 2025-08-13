@@ -174,9 +174,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - GitHub: [@parsecsion](https://github.com/parsecsion)
 - Email: muhammad.omer1021@gmail.com
 
-## Known Issues
-
-- None currently reported
+⚠ Disclaimer: This was an academic exercise. All businesses, names, and entities mentioned are fictional and created for learning purposes only. No real-world business or organization is represented.
 
 ---
 
