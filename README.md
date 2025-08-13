@@ -134,15 +134,14 @@ north-sussex-judo/
 ├── README.md                     # Project documentation
 ├── LICENSE                       # MIT License
 ├── docs/                         # Documentation
-│   ├── user_guide.md            # User manual
-│   ├── technical_specification.md
-│   └── algorithm_analysis.md
+│   └── user_guide.md             # User manual
 ├── screenshots/                  # Application screenshots
 │   ├── main_interface.png
+│   ├── adding_athletes.png
 │   ├── athlete_management.png
 │   └── fee_calculation.png
 └── tests/                        # Unit tests
-    └── test_athlete.py
+    └── test_judo_calculater.py
 ```
 
 ## Code Quality
@@ -160,6 +159,10 @@ north-sussex-judo/
 ![Main Interface](screenshots/main_interface.png)
 *Clean, professional interface with tabbed navigation*
 
+### Adding Athletes
+![Adding Athletes](screenshots/adding_athletes.png)
+*Simple form-based interface for registering new athletes.*
+
 ### Athlete Management
 ![Athlete Management](screenshots/athlete_management.png)
 *Comprehensive athlete registration and management*
@@ -167,14 +170,6 @@ north-sussex-judo/
 ### Fee Calculation
 ![Fee Calculation](screenshots/fee_calculation.png)
 *Detailed fee calculations and reporting*
-
-### Development Setup
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
@@ -189,13 +184,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Known Issues
 
 - None currently reported
-
-## Support
-
-If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/yourusername/north-sussex-judo/issues) page
-2. Create a new issue with detailed description
-3. Contact the author directly
 
 ---
 
