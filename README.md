@@ -42,7 +42,7 @@ This application was developed for North Sussex Judo, a local training facility 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/north-sussex-judo.git
+   git clone https://github.com/parsecsion/north-sussex-judo.git
    cd north-sussex-judo
    ```
 
