@@ -10,9 +10,3 @@
 # sys          - System-specific parameters
 # platform     - Platform identification
 # traceback    - Exception handling
-
-# Optional (development only):
-# pytest>=6.0.0   # Unit testing
-# black>=21.0.0   # Code formatting
-# flake8>=3.8.0   # Linting
-# mypy>=0.812     # Type checking
