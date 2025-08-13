@@ -123,8 +123,6 @@ This project demonstrates three core programming paradigms:
 ```
 north-sussex-judo/
 ├── north_sussex_judo.py          # Main application
-├── debug_north_sussex_judo.py    # Debug version with enhanced logging
-├── test_system.py                # System compatibility checker
 ├── requirements.txt              # Python dependencies
 ├── README.md                     # Project documentation
 ├── LICENSE                       # MIT License
