@@ -1,10 +1,19 @@
 # North Sussex Judo Training Fee Calculator
 
-A comprehensive desktop application for calculating monthly training fees for judo athletes, built with Python and Tkinter. This project demonstrates object-oriented programming, procedural programming, and event-driven programming paradigms.
+A desktop application for calculating monthly training fees for judo athletes, built with Python and Tkinter.
+This project was created solely as part of a university programming assignment to demonstrate object-oriented, procedural, and event-driven programming paradigms.
+It is archived and will not be updated or maintained. Any entities/organizations mentioned in this project are entirely fictional.
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![GUI Framework](https://img.shields.io/badge/GUI-Tkinter-orange.svg)](https://docs.python.org/3/library/tkinter.html)
+
+## Project Status
+
+- **Status**: Archived
+- **Purpose**: Portfolio display only
+- **Maintenance**: No further changes will be made
+- **Contributions**: Pull requests and issues will not be accepted
 
 ## Project Overview
 
@@ -159,10 +168,6 @@ north-sussex-judo/
 ![Fee Calculation](screenshots/fee_calculation.png)
 *Detailed fee calculations and reporting*
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
 ### Development Setup
 
 1. Fork the repository
@@ -177,16 +182,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-**Your Name**
-- GitHub: [@parsecsion](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+**Muhammad Omer Hussain**
+- GitHub: [@parsecsion](https://github.com/parsecsion)
 - Email: muhammad.omer1021@gmail.com
-
-## Acknowledgments
-
-- Developed for AQ Digital Solutions programming assignment
-- North Sussex Judo for providing the business requirements
-- Python Software Foundation for the excellent tkinter framework
 
 ## Known Issues
 
