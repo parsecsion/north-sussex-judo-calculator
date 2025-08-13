@@ -51,12 +51,7 @@ This application was developed for North Sussex Judo, a local training facility 
    python --version
    ```
 
-3. **Test system compatibility**
-   ```bash
-   python test_system.py
-   ```
-
-4. **Run the application**
+3. **Run the application**
    ```bash
    python north_sussex_judo.py
    ```
