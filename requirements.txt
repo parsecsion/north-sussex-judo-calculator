@@ -1,0 +1,18 @@
+# North Sussex Judo Training Fee Calculator - Requirements
+# Python 3.8+ is required
+# No external dependencies. All modules used are from the Python standard library.
+
+# Standard library modules used:
+# tkinter      - GUI framework
+# datetime     - Date and time handling
+# json         - JSON data handling
+# typing       - Type hints
+# sys          - System-specific parameters
+# platform     - Platform identification
+# traceback    - Exception handling
+
+# Optional (development only):
+# pytest>=6.0.0   # Unit testing
+# black>=21.0.0   # Code formatting
+# flake8>=3.8.0   # Linting
+# mypy>=0.812     # Type checking
