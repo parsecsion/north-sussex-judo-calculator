@@ -4,14 +4,13 @@ A desktop application for calculating monthly training fees for judo athletes, b
 This project was created solely as part of a university programming assignment to demonstrate object-oriented, procedural, and event-driven programming paradigms.
 It is archived and will not be updated or maintained. Any entities/organizations mentioned in this project are entirely fictional.
 
+![Status](https://img.shields.io/badge/status-archived-lightgrey)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![GUI Framework](https://img.shields.io/badge/GUI-Tkinter-orange.svg)](https://docs.python.org/3/library/tkinter.html)
 
 ## Project Status
 
-
-- ![Status](https://img.shields.io/badge/status-archived-lightgrey)
 - **Purpose**: Portfolio display only
 - **Maintenance**: No further changes will be made
 - **Contributions**: Pull requests and issues will not be accepted
