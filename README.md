@@ -8,7 +8,8 @@ It is archived and will not be updated or maintained. Any entities/organizations
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![GUI Framework](https://img.shields.io/badge/GUI-Tkinter-orange.svg)](https://docs.python.org/3/library/tkinter.html)
 
-## Project Status
+## Project Status![Status](https://img.shields.io/badge/status-archived-lightgrey)
+
 
 - **Status**: Archived
 - **Purpose**: Portfolio display only
