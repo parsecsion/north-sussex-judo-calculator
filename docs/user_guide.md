@@ -112,7 +112,6 @@ Athletes are automatically classified into weight categories:
 #### Application Won't Start
 - **Check Python installation**: Run `python --version`
 - **Test tkinter**: Run `python -c "import tkinter; print('OK')"`
-- **Use debug version**: Run `debug_north_sussex_judo.py`
 
 #### Input Errors
 - **"Weight must be greater than 0"**: Enter valid weight in kg
@@ -128,8 +127,6 @@ Athletes are automatically classified into weight categories:
 ### Getting Help
 1. **Check error messages** - they provide specific guidance
 2. **Use sample data** - pre-loaded athletes show correct formats
-3. **Try debug version** - provides detailed error information
-4. **Check GitHub issues** - common problems and solutions
 
 ### Best Practices
 - **Regular backups**: Export athlete data regularly
